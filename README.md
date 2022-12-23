@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="imag/ktTGWappen.png" alt="Wappen des Thurgau" width="100%" height="100%">
+    <img src="img/ktTGWappen.png" alt="Wappen des Thurgau" width="100%" height="100%">
   </a>
 
 <h3 align="center">Landwirtschaftliche Nutzungsfläche im Thurgau</h3>
@@ -27,6 +27,11 @@ Copyright 2022 Lukas Wildeisen
 
 ## Versionen
 
+|Version |Datum |Autor |Veränderungen | |
+|1.0 |23.12.2022 |Lukas Wildeise |Erstellung Webseite |--- |
+| | | | | |
+| | | | | |
+| | | | | |
 Version 1.0.0 23.12.2022 Die erste Version des Projektes ist fertiggestellt und kann nun verwendet werden.
 
 <!-- Installation-Manual-->
