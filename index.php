@@ -31,23 +31,26 @@
     <br>
     <br>
 
-
-
-    <script type="text/javascript" src="js/myjs.js" charset="UTF-8"></script>
-    <script src="js/js.js"></script>
-</body>
-<footer>
+    <h2>Nachwort</h2>
     <p id="fo_infos">Diese Seite wurde von ©<a href="https://github.com/luw-i">Lukas Wildeisen</a> erstellt. Dies Geschah unter der Leitung von <a href="https://github.com/jpmou">Jean-Pierre Mouret</a>.
         Weiter wurde das Projekt mit der Hilfe von dem Repository <a href="https://github.com/Yeshush/m306-OGD">Yeshush/m306-OGD</a> erstellt. Es wurde Als Informationsquelle für das Auslesen von WMS-Daten verwendet.
         Es wurde die Daten von <a href="https://opendata.swiss/de/dataset/nutzungsflachen">opendata.swiss
         </a> verwendet.
     </p>
-    <ul>
-        <li>Source-Code<a href="">>Github</a></li>
-        <li>Datenquelle<a href="https://opendata.swiss/de/dataset/nutzungsflachen">opendata.swiss</a></li>
-        <li>Leaflet JS<a href="https://leafletjs.com/"> Leaflet.js</a></li>
-        <li>Hilfsrepository von Yeshush<a href="https://github.com/Yeshush/m306-OGD">Github-Repository
-            </a></li>
+
+    <script type="text/javascript" src="js/myjs.js" charset="UTF-8"></script>
+    <script src="js/js.js"></script>
+</body>
+<footer>
+    <hr noshade>
+    <h2>Impressum</h2>
+    <ul id="Liste">
+        <li>Source-Code: <a href="https://github.com/luw-i/M306_OGD_Lukas/tree/master">Githubrepository</a></li>
+        <li>Datenquelle: <a href="https://opendata.swiss/de/dataset/nutzungsflachen">opendata.swiss</a></li>
+        <li>Leaflet JS: <a href="https://leafletjs.com/"> Leaflet.js</a></li>
+        <li>Hilfsrepository vosn Yeshush: <a href="https://github.com/Yeshush/m306-OGD">Githubrepository
+            </a>
+        </li>
     </ul>
 </footer>
 

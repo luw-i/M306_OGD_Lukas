@@ -37,3 +37,6 @@ html {
   color: rgb(22, 167, 78);
   font-size: 200%;
 }
+a {
+  text-decoration: none;
+}
