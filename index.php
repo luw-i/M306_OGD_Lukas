@@ -31,7 +31,7 @@
     <br>
     <br>
 
-    <h2>Nachwort</h2>
+    <h2 id="nachwort">Nachwort</h2>
     <p id="fo_infos">Diese Seite wurde von ©<a href="https://github.com/luw-i">Lukas Wildeisen</a> erstellt. Dies Geschah unter der Leitung von <a href="https://github.com/jpmou">Jean-Pierre Mouret</a>.
         Weiter wurde das Projekt mit der Hilfe von dem Repository <a href="https://github.com/Yeshush/m306-OGD">Yeshush/m306-OGD</a> erstellt. Es wurde Als Informationsquelle für das Auslesen von WMS-Daten verwendet.
         Es wurde die Daten von <a href="https://opendata.swiss/de/dataset/nutzungsflachen">opendata.swiss

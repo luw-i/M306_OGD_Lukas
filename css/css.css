@@ -40,3 +40,10 @@ html {
 a {
   text-decoration: none;
 }
+#nachwort {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: rgb(22, 167, 78);
+  font-size: 200%;
+}

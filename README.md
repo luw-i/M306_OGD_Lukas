@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="imag/ktTGWappen.png" alt="Wappen des Thurgau">
+    <img src="imag/ktTGWappen.png" alt="Wappen des Thurgau" width="100%" height="100%">
   </a>
 
 <h3 align="center">Landwirtschaftliche Nutzungsfläche im Thurgau</h3>
@@ -23,21 +23,11 @@
 Diese Webseite ist unter der MIT Lizenz lizensiert. Siehe <a href="https://opensource.org/licenses/MIT">MIT-Lizenz</a> für mehr Informationen.<br>
 Copyright 2022 Lukas Wildeisen
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- Version -->
 
-## Version
+## Versionen
 
 Version 1.0.0 23.12.2022 Die erste Version des Projektes ist fertiggestellt und kann nun verwendet werden.
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- [W3Schools](https://www.w3schools.com/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Installation-Manual-->
 
