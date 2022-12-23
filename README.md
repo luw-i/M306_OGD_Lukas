@@ -33,6 +33,8 @@ Copyright 2022 Lukas Wildeisen
 
 ## Installation
 
+<!--NetBeans-->
+
 ### Netbeans
 
 Um dieses Projekt zu installiere, müssen Sie folgende Schritte befolgen:
@@ -42,6 +44,8 @@ Um dieses Projekt zu installiere, müssen Sie folgende Schritte befolgen:
 3. Gehen Sie auf Netbeans und öffnen Sie das Projekt
 4. Klicken Sie auf Run
 5. Voilà! Die Applikation ist nun gestartet und sie können sie benutzen.
+
+<!--VS Code-->
 
 ### VS Code
 

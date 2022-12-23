@@ -26,8 +26,10 @@
     </p>
     <br>
     <br>
+    <br>
     <h2 id="info">Karte</h2>
     <div id="map"></div>
+    <br>
     <br>
     <br>
 

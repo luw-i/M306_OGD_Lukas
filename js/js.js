@@ -1,3 +1,4 @@
+// Final Version: 1.0
 /* Global L -> Leaflet JS */
 
 const Attribution =
