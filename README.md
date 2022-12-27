@@ -27,7 +27,7 @@ Copyright 2022 Lukas Wildeisen
 
 | Version | Datum      | Autor          | Veränderungen         |
 | ------- | ---------- | -------------- | --------------------- |
-| 1.0     | 23.12.2022 | Lukas Wildeise | Erstellung Webseitete |
+| 1.0     | 23.12.2022 | Lukas Wildeisen | Erstellung Webseitete |
 
 <!-- Installation-Manual-->
 
